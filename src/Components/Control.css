@@ -1,0 +1,41 @@
+.Control{
+    display: flex;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 33%;
+}
+.ingrident{
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.colon{
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.label{
+    display: flex;
+    font-weight: bold;
+}
+.countDiv{
+    display: flex;
+}
+.countDiv.Salad{
+    margin-left: 15%;
+}
+.countDiv.Bacon{
+    margin-left: 13%;
+}
+.countDiv.Cheese{
+    margin-left: 11%;
+}
+.countDiv.Meat{
+    margin-left: 15%
+}
+.count{
+    background-color: beige;
+    text-align: center;
+    min-width: 40%;
+    max-width: 100%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
